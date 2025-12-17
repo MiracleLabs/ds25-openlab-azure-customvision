@@ -1,4 +1,4 @@
-# DS24 Open Lab | Custom Vision AI Object Detection for Vehicle Images using Azure Service
+# DS25 Open Lab | Custom Vision AI Object Detection for CAD Images using Azure Service
 
 This repository contains the lab for demonstrating Hands-On with Custom Vision AI Object Detection for Vehicle Images using Azure Service. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
@@ -28,4 +28,4 @@ The following people have contributed to the development and delivery of this la
 
 • Sandeep Kumar Rongali - Research Associate
 
-• Latha Erothu - Research Associate
+• Madhusmara Pitani - Research Associate
